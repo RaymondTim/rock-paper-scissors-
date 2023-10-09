@@ -1,0 +1,44 @@
+body {
+    font-size: 15px;
+    background-color: white;
+}
+#buttonsDiv{
+  display: flex;
+  justify-content: center;
+}
+button{
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+  border-radius: 10px;
+}
+#choices{
+  display: flex;
+  justify-content: center;
+}
+#playerScore{
+  display: flex;
+  justify-content: center;
+}
+#resultDiv{
+  display: flex;
+  justify-content: center;
+}
+#computerScore{
+  display: flex;
+  justify-content: center;
+}
+#gameOver{
+  display: flex;
+  justify-content: center;
+  color: red;
+}
+#clearGameDiv {
+  display: flex;
+  justify-content: center;
+}
+#newGameDiv{
+  display: flex;
+  justify-content: center;
+  color: blue;
+}
